@@ -29,8 +29,8 @@ This project also gave us hands-on experience in creating a **real-world styled 
 
 This project was collaboratively developed by:
 
-* [Darren Samuel Dcruz]
-* [P Kamuel Shawn]
+* [Darren Samuel Dcruz](https://github.com/Darren-Dcruz)
+* [P Kamuel Shawn](https://github.com/KamuelShawn)
 * [Joel Jacob Roji](https://github.com/JoelJacobRoji)
 
 # 🌐 Visit our site: 
